@@ -34,12 +34,12 @@ body {
     border-radius: 0 0 1.5em 1.5em;
   }
  /*Header and footer styles*/
- .card header,footer{
+ .card header footer{
     height: 5em;
     padding: 1em;
  }
  /* main business card contents styles*/
-  .card h2,p{
+  .card h2 p{
     margin: 0;
   }
   .card article{
@@ -50,3 +50,8 @@ body {
     font-size: 2em;
     line-height: 1.5;
   }
+  .card footer p{
+    font-size: 1.5em;
+    line-height: 2;
+  }
+  
