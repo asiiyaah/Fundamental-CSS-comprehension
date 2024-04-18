@@ -39,4 +39,6 @@ body {
     padding: 1em;
  }
  /* main business card contents styles*/
-  
+  .card h2,p{
+    margin: 0;
+  }
